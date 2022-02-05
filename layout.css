@@ -5,7 +5,7 @@
 
 header {
     position: relative;
-    background-image: url ["../contato/2.jpeg"];
+    background-image: url "[../contato/2.jpeg]";
     background-color: #808080;
     background-size: cover;
     background-position: center;
